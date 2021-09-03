@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316467033721",
+    "project_id": "lohj-955f3",
+    "storage_bucket": "lohj-955f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316467033721:android:28842d4abc3f51fa1886a8",
+        "android_client_info": {
+          "package_name": "com.arpit.lohj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316467033721-368pdmdm3c8d1piqi43jaaasslv3mug6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW9k5DYuQtaU4j4hjO_m5eL4XmpBBXb2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316467033721-368pdmdm3c8d1piqi43jaaasslv3mug6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
